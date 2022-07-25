@@ -3,11 +3,20 @@
   <head>
     <meta charset="utf-8">
     <title>Project: Website</title>
-    <style>
-      body{font-family: arial, serif;
-        background: rgb(255,249,229);
     <head>
+    <style>
+      h1 {text-align: center;}
+      p {text-align: center;}
+      div {text-align: center;}
       <body>
-        <center><h1>My Art</h1></center>
-        <center><h2>Paintings, sketches, and digital artworks</h2></center>
+        {font-family: arial, serif;}
+      </body>
+      background: rgb(255,249,229)
+    </style>
+    </head>
+      <body>
+        <h1>My Art</h1>
+        <h2>Paintings, sketches, and digital artworks</h2>
+      </body>
+        </html>
         
