@@ -1,4 +1,4 @@
-<!DOCTYPE>
+<!DOCTYPE html>
 <html>
   <head>
     <meta charset="utf-8">
@@ -8,9 +8,7 @@
       h1 {text-align: center;}
       p {text-align: center;}
       div {text-align: center;}
-      <body>
-        {font-family: arial, serif;}
-      </body>
+        body,h1,h2,p{font-family: Georgia, serif;}
       background: rgb(255,249,229)
     </style>
     </head>
